@@ -1,0 +1,143 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Data Science Lab",
+    "section": "",
+    "text": "This syllabus may change during the course of the semester additions and clarifications. All substantial changes will marked here with date.\nImportant Links:\nCU-S25-MSDSSB-DSCI-01-DataScienceLab\nCourse-Organization-Resources (private repository, you need to be logged in on GitHub)",
+    "crumbs": [
+      "Syllabus"
+    ]
+  },
+  {
+    "objectID": "index.html#module-names",
+    "href": "index.html#module-names",
+    "title": "Data Science Lab",
+    "section": "1 Module Names",
+    "text": "1 Module Names\nMDSSSB-DSCI-01 Data Science Lab (Discovery area, 5 credits)\nOffered in the Master program: Data Science for Society and Business (DSSB). See the module description in the DSSB Handbook.",
+    "crumbs": [
+      "Syllabus"
+    ]
+  },
+  {
+    "objectID": "index.html#module-components",
+    "href": "index.html#module-components",
+    "title": "Data Science Lab",
+    "section": "2 Module Components",
+    "text": "2 Module Components\n\nData Science Lab (5 Credits)\n\nPre-requisits\n\nData Science Concepts\nData Science Tools\nCurrent Topics and Applications in Data Science",
+    "crumbs": [
+      "Syllabus"
+    ]
+  },
+  {
+    "objectID": "index.html#class-meeting-information",
+    "href": "index.html#class-meeting-information",
+    "title": "Data Science Lab",
+    "section": "3 Class Meeting Information",
+    "text": "3 Class Meeting Information\nThursday: 2 consecutive Sessions 15:45-17:00 and 17:15-18:30\nLocation: East Hall Seminar Room 5 in-person\nAsynchronous communication about course organization as well as occasional video streaming and recording will be done in Microsoft Teams:\nTeam S25_MDSSB-DSCI-01_Data Science Lab, General Channel",
+    "crumbs": [
+      "Syllabus"
+    ]
+  },
+  {
+    "objectID": "index.html#instructor",
+    "href": "index.html#instructor",
+    "title": "Data Science Lab",
+    "section": "4 Instructor",
+    "text": "4 Instructor\nJan Lorenz",
+    "crumbs": [
+      "Syllabus"
+    ]
+  },
+  {
+    "objectID": "index.html#format-and-workload",
+    "href": "index.html#format-and-workload",
+    "title": "Data Science Lab",
+    "section": "5 Format and Workload",
+    "text": "5 Format and Workload\nLab sessions (35 hours in presence)\nWork on project (125 hours)",
+    "crumbs": [
+      "Syllabus"
+    ]
+  },
+  {
+    "objectID": "index.html#intended-learning-outcomes",
+    "href": "index.html#intended-learning-outcomes",
+    "title": "Data Science Lab",
+    "section": "6 Intended Learning Outcomes",
+    "text": "6 Intended Learning Outcomes\nFrom the handbook: By the end of this module, students should be able to\n\nunderstand and critically evaluate current data science applications, identify new and innovative research questions and data science applications\nexperiment with and simulate data science solutions\nwrite/configure computer programs/tools specific to certain subject areas\nmaster relevant data pre/post-processing routines\ndesign and schedule a DS project of medium complexity, including escape options, and keep milestones/timelines\nimprove their academic writing skills\ncommunicate results to a non-expert audience\ndesign their own digital application\n\n\n6.1 Main Learning Goal\nThis Data Science Lab shall deepen your skills for your more and more independent data science work based on a self-designed project. That means you become more experienced in\n\nin using the core concepts in data science on your own, for example\n\nexploring data (import, wrangle, visualize)\nlearning, exploring and applying mathematics and statistics through the data science lens\nlearning and applying concepts to model and draw conclusions from data (model, infer, predict)\n\ncreating and maintaining a digital working environment on your computer to do data science\nprogramming in the data science languages R and/or python, and become able to learn new skills in these independently",
+    "crumbs": [
+      "Syllabus"
+    ]
+  },
+  {
+    "objectID": "index.html#examination-and-assessment",
+    "href": "index.html#examination-and-assessment",
+    "title": "Data Science Lab",
+    "section": "7 Examination and Assessment",
+    "text": "7 Examination and Assessment\nAssessment Type: Project Assessment\nWeight: 100%\nScope: All intended learning outcomes of the module.\nCompletion: to pass this module, the examination has to be passed with at least 45%\nThe project components must be delivered in a non-public project-repository on GitHub provided by the instructor in the GitHub-Organization CU-S24-MSDSSB-DSCI-01-DataScienceLab. If your project requires another way of delivery, get in contact with the instructor before the submission.",
+    "crumbs": [
+      "Syllabus"
+    ]
+  },
+  {
+    "objectID": "index.html#module-policies",
+    "href": "index.html#module-policies",
+    "title": "Data Science Lab",
+    "section": "8 Module Policies",
+    "text": "8 Module Policies\nThere are no formal requirement about attendance and active participation. However, we rely on your engagement in a many-facted way including:\n\nPreparation (looking at readings and material before and after class, being informed about syllabus and course material)\nFocus (avoid distraction during in class and self-learning activities)\nPresence (listening and responding during group activities)\nAsking questions (in class, out of class, online, offline, when you get stuck conclude by writing a question)\nSpecificity (being as specific as possible when describing your problem or question)\nSynthesizing (making connections between concepts from reading and discussion)\nPersistence (you don’t need to understand everything immediately, but stay engaged, try again, confusion shows that you pay attention)",
+    "crumbs": [
+      "Syllabus"
+    ]
+  },
+  {
+    "objectID": "index.html#academic-integrity",
+    "href": "index.html#academic-integrity",
+    "title": "Data Science Lab",
+    "section": "9 Academic Integrity",
+    "text": "9 Academic Integrity\nAll involved parties (professors and lecturers, instructors and students) are expected to abide by the word and spirit of the “Code of Academic Integrity”: https://constructor.university/student-life/student-services/university-policies/academic-policies/code-of-academic-integrity. Violations of the Code might be brought to the attention of the Academic Integrity Committee.",
+    "crumbs": [
+      "Syllabus"
+    ]
+  },
+  {
+    "objectID": "index.html#artifical-intelligence-ai-use-policy",
+    "href": "index.html#artifical-intelligence-ai-use-policy",
+    "title": "Data Science Lab",
+    "section": "10 Artifical Intelligence (AI) Use Policy",
+    "text": "10 Artifical Intelligence (AI) Use Policy\nThis policy covers any generative AI tool, such as ChatGPT, Elicit, etc. This includes text, code, slides, artwork/graphics/video/audio and other products.\nI encourage you to using and exploring AI tools for these purposes:\n\nLearning by dialog with a chatbot. AI chatbots can be helpful to explain you concepts on your desired level and get a feeling about how certain topics are treated. You can ask for an easier or more detailed explanation or focus on certain aspects. Note: The capabilities are limited and you likely receive a lot of false information! Using chatbots should remain a small part of your learning process. Rule of thumb: Spend not more than 25% of the learning time with chatting. There is no way around reading textbooks, reading software documentation, learning and understanding concepts, searching for help online, asking instructors or fellow students.\nHave code snippets written. Tools like GitHub Copilot (free to use for students and teachers) are heavily used and currently change code-writing. They can speed up writing your code. However, they do not deliver always correct solutions. There is no way around understanding yourself what a code is doing! Do not spend endless hours asking for new code with new prompts, spend time understanding a language and the functions and objects you are using! Copilots can be a great help to get a skeleton of code and an idea how your solution might look, they rarely deliver the complete code. Expect that the code does not work, expect that the code seems to works but the results are wrong. You are 100% accountable for the code you produce, with or without the help of a copilot!\nHave a draft text snippet written. Data science is also about formulating and describing research questions, describing data, documenting code, interpreting results, and deriving conclusion form the results. This is all verbal text and chatbots are good in writing text which often appears well readable. You can use this to inspire yourself and to polish and improve your texts. However, you are 100% accountable for the text you deliver. You are expected to know what your text is about and to be able to answer questions about what your text means! In text generated purely by a chatbot it is often evident that you do not. We consider such cases worse than incomplete but sensible text. Also text written by chatbots is often very generic and less specific. In general, we value more specific text higher than generic text. Large parts of very generic text is considered worse than a shorter more specific text. In extreme case, a long very generic text will be considered worse than no text at all\nNote: Philosophical and legal questions around the training and use of chatbots and code copilots are controversially contested and re-examined constantly! We encourage to engage with such questions and become aware of arguments and debates.\n\nIf any part of this AI policy is confusing or uncertain, please reach out to us for a conversation before submitting your work.",
+    "crumbs": [
+      "Syllabus"
+    ]
+  },
+  {
+    "objectID": "index.html#schedule",
+    "href": "index.html#schedule",
+    "title": "Data Science Lab",
+    "section": "11 Schedule",
+    "text": "11 Schedule\nThe Schedule is on an extra page and will be updated continuously.\nDetailed schedule information with personalized student information will appear in the private repository https://github.com/CU-S24-MSDSSB-DSCI-01-DataScienceLab/Course-Organization",
+    "crumbs": [
+      "Syllabus"
+    ]
+  },
+  {
+    "objectID": "index.html#feedback-from-students",
+    "href": "index.html#feedback-from-students",
+    "title": "Data Science Lab",
+    "section": "12 Feedback from Students",
+    "text": "12 Feedback from Students\nWe are eager to constantly improve the quality of our teaching. We would be glad to obtain your feedback at any time of the course to improve your learning experience.",
+    "crumbs": [
+      "Syllabus"
+    ]
+  },
+  {
+    "objectID": "schedule.html",
+    "href": "schedule.html",
+    "title": "Schedule",
+    "section": "",
+    "text": "Developing Schedule\n\n\n\n\n\nThe schedule is tentative. It will be updated.\nImportant Links:\nGitHub organization of the course: https://github.com/CU-F23-MDSSB-01-Concepts-Tools\nOrganization repository with non-public information and FAQ in Discussions: https://github.com/CU-F23-MDSSB-01-Concepts-Tools/Organization\n\n\n\n\nTabular Schedule\n\n\n\n\n\n\n\n\nWeek\nDates\nTopic\n\n\n\n\n1\nFeb 01\nKick off the Lab\n\n\n2\nFeb 08\n\n\n\n3\nFeb 15\n\n\n\n4\nFeb 22\n\n\n\n5\nFeb 29\n\n\n\n6\nMar 07\n\n\n\n7\nMar 14\n\n\n\n8\nMar 21\n\n\n\n\nSpring break\n\n\n\n9\nApr 04\n\n\n\n10\nApr 11\n\n\n\n11\nApr 18\n\n\n\n12\nApr 25\n\n\n\n13\nMay 02\n\n\n\n\n\n\n\n\n\n\nNote\n\n\n\n\n\nAll topics in the future are subject to change and adaptation to student needs.",
+    "crumbs": [
+      "Syllabus",
+      "Schedule"
+    ]
+  }
+]
