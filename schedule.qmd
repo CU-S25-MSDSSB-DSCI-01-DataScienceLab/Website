@@ -6,134 +6,34 @@ title: "Schedule"
 ## Developing Schedule
 The schedule is tentative. It will be updated.
 
-[Important Links:]{style='color:red;'}    
-GitHub organization of the course: <https://github.com/CU-F23-MDSSB-01-Concepts-Tools>   
-Organization repository with non-public information and FAQ in Discussions: <https://github.com/CU-F23-MDSSB-01-Concepts-Tools/Organization>
+**Important Links:**  
+[GitHub organization]({{<var org.link>}}) of the course  
+[Course-Organization-Resources repository]({{<var org.link-org-repo>}}) with non-public information
 :::
 
 # Tabular Schedule  {.unnumbered}
 
-Week | Dates  | Topic                  | 
------|--------|------------------------|
-1    | Feb 01 | Kick off the Lab       |
-2    | Feb 08 |                        |
-3    | Feb 15 |                        |
-4    | Feb 22 |                        |
-5    | Feb 29 |                        |
-6    | Mar 07 |                        |
-7    | Mar 14 |                        |
-8    | Mar 21 |                        |
-     |        | Spring break           |
-9    | Apr 04 |                        |
-10   | Apr 11 |                        |
-11   | Apr 18 |                        |
-12   | Apr 25 |                        |
-13   | May 02 |                        |
+Class is **{{<var class.day>}}** in 2 consecutive Sessions duing **{{<var class.time>}}**      
+Location: **{{<var class.location>}}** in-person if not stated otherwise 
 
-: {tbl-colwidths="[5, 15, 80]"}
+Week | Dates  | What?                  | Where?                  |
+-----|--------|------------------------|-------------------------|
+1    | Feb 06 | *Kick off the Lab* <br> Watch out for survey link: To collect data for team and topic matching!  | Campus  |
+2    | Feb 13 | *Topics and Team Formation*, Q&A | Campus         |
+3    | Feb 20 | 🧑‍💻 **Tutorial** quarto/git/GitHub: Refresh the basics; Report writing; Figures; Referencing; Reproducible code; Literature Management; Websites <!--[Slides](tutorials/report_writing.qmd)--> | Campus  |
+4    | Feb 27 | 1️⃣ **Student Proposal Presentations** [Presentation Guide](presentation.qmd) | Campus  |
+5    | Mar 06 | 🧑‍💻 **Tutorial** Webscraping/APIs  | Campus |
+6    | Mar 13 |        | East Hall 2     |
+7    | Mar 20 | *Individual meetings with student teams* <br> | Online only |
+8    | Mar 27 | *Individual meetings with student teams* <br> | Online only |
+9    | Apr 03 | 2️⃣ **Student Progress and Learning Presentations**  [Presentation Guide](presentation.qmd)   | Campus     |
+10   | Apr 10 | 🧑‍💻 **Tutorial** Open/On demand/To be decided   | Campus     |
+     |        |     | Spring break           |        |
+11   | Apr 24 | *Individual meetings with student teams* <br> | Online/Instructor's Office |
+     |        |     | May 01 is a German vacation day           |        |
+12   | May 08 | 3️⃣ **Student Final Presentations (1)** [Presentation Guide](presentation.qmd)  |  Campus |
+13   | May 15 | 3️⃣ **Student Final Presentations (2)** [Presentation Guide](presentation.qmd)  | Campus |
 
-:::{.callout-note collapse=false appearance='default' icon=true}
-All topics in the future are subject to change and adaptation to student needs. 
-:::
+: {tbl-colwidths="[5, 15, 65, 15]"}
 
-
-
-<!--   | Week | Date         | Time              | Room                            | What?                                               | -->
-<!-- |:-----|:-------------|------------------:|:--------------------------------|:----------------------------------------------------| -->
-<!-- | 1    | 2023-02-02   |   14:15 - 17:00   | IRC Sem. I                      | Introduction                                        | -->
-<!-- | 2    | 2023-02-09   |   14:15 - 17:00   | IRC Sem. I                      | Topic and group formation                           | -->
-<!-- | 3    | 2023-02-16   |   14:15 - 17:00   | IRC Sem. I                      | Student Proposal Presentations, Q&A                 | -->
-<!-- | 4    | 2023-02-23   |   14:15 - 17:00   | IRC Sem. I                      | Student Proposal Presentations, Q&A                 | -->
-<!-- | 5    | 2023-03-02   |   14:15 - 17:00   | MS Teams (in person on request) | Individual Sessions Instructor + Teams              |     -->
-<!-- | 6    | 2023-03-09   |   14:15 - 17:00   | IRC Sem. I                      | Tutorial on collecting data (Scrape, API, SQL, ...) | -->
-<!-- | 7    | 2023-03-16   |   14:15 - 17:00   | Individual meetings on request  | Please ask for an appointment!                      | -->
-<!-- | 8    | 2023-03-23   | **15:45 - 18:30** | **East Hall 3**                 | Student Progress Presentations, Q&A                 | -->
-<!-- | 9    | 2023-03-30   |   14:15 - 17:00   | IRC Sem. I                      | Student Progress Presentations, Q&A                 | -->
-<!-- |      | Spring break |   14:15 - 17:00   |                                 |                                                     | -->
-<!-- | 10   | 2023-04-13   |   14:15 - 17:00   | IRC Sem. I                      | Quarto tutorial, Student Progress Presentations     | -->
-<!-- | 11   | 2023-04-20   |   14:15 - 17:00   | MS Teams (in person on request) | Individual Sessions Instructor + Teams (Times below)| -->
-<!-- | 12   | 2023-04-27   |   14:15 - 17:00   | Individual meetings on request  | Please ask for an appointment!                      | -->
-<!-- | 13   | 2023-05-04   |   14:15 - 17:00   | IRC Sem. I                      | Student Final Presentations                         | -->
-<!-- | 14   | 2023-05-11   |   14:15 - 17:00   | IRC Sem. I                      | Student Final Presentations                         | -->
-
-
-
-
-
-<!-- ## Past sessions -->
-
-<!-- **Week 3: Student Proposal Presentations** -->
-
-<!-- Time: 15 min. per project of 1 person, + 5 min. for each additional Team member -->
-
-<!-- We have time for discussion after each presentation.  -->
-
-<!-- - Team, course and project organization -->
-<!-- - Team G: Jana Bensing (15 min) -->
-<!-- - Team D: Aiman Alam, Niloufar Shokri (20 min) -->
-<!-- - Team A: Leslie Magoronga, Nasim Maleki Farsani (20 min.) -->
-<!-- - Team E: Modou Lamin Manjang, Sergey Polyarus (20 min.) -->
-<!-- - Further team, course and project organization -->
-
-<!-- **Week 4: Student Proposal Presentations** -->
-
-<!-- Time: 15 min. per project of 1 person, + 5 min. for each additional Team member -->
-
-<!-- We have time for discussion after each presentation.  -->
-
-<!-- - Team B: Akshatha Akshatha, Doris Ameyaw (20 min.) -->
-<!-- - Team C: Daria Markova, Suraj Karakulath (20 min.) -->
-<!-- - Team F: Mohammed El Hmidi, Ishimwe Melyse (20 min.) -->
-<!-- - Team H: Tapuwa Mhembere (15 min.) -->
-<!-- - Team I: Husnain Dawood (15 min.) -->
-
-<!-- **Week 5: Individual Session Team + Instructor** -->
-
-<!-- Team appointments in the range 14:15-17:00.  -->
-
-<!-- Time: minimally 15 min. per project of 1 person, + 5 min. for each additional Team members.  -->
-
-<!-- See the times of your Team in the table below.  -->
-
-<!-- **Beware:** On the instructors side it is a very tough time table, so it is important to try to be ready by the minute and prepare well what you want to show. The instructor will create a chat for all participants in MS Teams. We can meet there. You can start a meeting there at the exact time and the instructor will join as soon as possible. If you prefer to meet in-person just post a message in the chat before and come to IRC Seminar Room 1.  -->
-
-<!-- Topics for the meeting: -->
-
-<!-- - Anything project related coming from your side. You are encouraged to post topics in the chat before.  -->
-<!-- - When the instructor sees the need for a particular topic, it will be posted in the chat before.  -->
-<!-- - For the progress presentation: What could be the **learning focus** for the whole course? -->
-
-<!-- **Week 6:** In IRC Seminar Room I -->
-
-<!-- Hands-on tutorial on **collecting data** (SQL, API, html-Scraping, ...) -->
-
-<!-- Material: Clone this repository and look at the Slidedeck `CollectingData.html` in [tutorials](tutorials). -->
-
-<!-- **Week 7:** Individual meetings on request.  -->
-
-<!-- **Week 8: Student Progress Presentations** 📢 **ROOM & TIME CHANGE: 🟥 15:45 - 18:00 East Hall 3 🟥** -->
-
-<!-- See the [guidelines for the student presentations](PRESENTATIONS.md).  -->
-
-<!-- Session 1 -->
-
-<!-- - Team A: Leslie Magoronga, Nasim Maleki Farsani (20 min.) LEARNING: **Data transformation: Recency, Frequency, Monetary value** -->
-<!-- - Team B: Akshatha Akshatha, Doris Ameyaw (20 min.) LEARNING: **Map visualization** -->
-
-<!-- Session 2 -->
-
-<!-- - Team C: Daria Markova, Suraj Karakulath (20 min.) LEARNING: **From server log data to user characteristics"" -->
-<!-- - Team G: Jana Bensing (15 min) LEARNING: **Interpreting the confusion matrix** -->
-
-<!-- **Week 9: Student Progress Presentations** -->
-
-<!-- See the [guidelines for the student presentations](PRESENTATIONS.md).  -->
-
-<!-- Session 1 -->
-
-<!-- - Team D: Aiman Alam, Niloufar Shokri (20 min) LEARNING: **Extracting Features from time series** -->
-<!-- - Team H: Tapuwa Mhembere, Mohammed El Hmidi (15 min.) LEARNING: **Aspects of dealing with missing values** -->
-
-<!-- Session 2 -->
-
-<!-- - Team E: Modou Lamin Manjang, Sergey Polyarus (20 min.) LEARNING: **Time series: ARIMA model** -->
+**Deadline:** Check due date for Project Reports in the [Academic Calendar]({{<var link.academic-calendar>}}) (see the *Deadline For Students To Submit (Incomplete) Assessments*).

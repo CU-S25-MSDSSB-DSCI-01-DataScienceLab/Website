@@ -6,6 +6,8 @@ execute:
 
 website:
   title: "Data Science Lab"
+  margin-header: |
+    ![Logo image](/img/datasciencelabicon.jpg)
   navbar:
     left:
       - href: index.qmd
@@ -19,6 +21,8 @@ website:
         file: index.qmd
       - text: "Schedule"
         file: schedule.qmd
+      - text: "Presentation Guide"
+        file: presentation.qmd
 
 format:
   html:
