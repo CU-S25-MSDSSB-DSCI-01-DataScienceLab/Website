@@ -13,23 +13,23 @@ The schedule is tentative. It will be updated.
 
 # Tabular Schedule  {.unnumbered}
 
-Class is **{{<var class.day>}}** in 2 consecutive Sessions duing **{{<var class.time>}}**      
+Class is **{{<var class.day>}}** in 2 consecutive Sessions **{{<var class.time>}}**      
 Location: **{{<var class.location>}}** in-person if not stated otherwise 
 
 Week | Dates  | What?                  | Where?                  |
 -----|--------|------------------------|-------------------------|
-1    | Feb 06 | *Kick off the Lab* <br> Watch out for survey link: To collect data for team and topic matching!  | Campus  |
-2    | Feb 13 | *Topics and Team Formation*, Q&A | Campus         |
-3    | Feb 20 | 🧑‍💻 **Tutorial** quarto/git/GitHub: Refresh the basics; Report writing; Figures; Referencing; Reproducible code; Literature Management; Websites <!--[Slides](tutorials/report_writing.qmd)--> | Campus  |
-4    | Feb 27 | 1️⃣ **Student Proposal Presentations** [Presentation Guide](presentation.qmd) | Campus  |
-5    | Mar 06 | 🧑‍💻 **Tutorial** Webscraping/APIs  | Campus |
-6    | Mar 13 |        | East Hall 2     |
-7    | Mar 20 | *Individual meetings with student teams* <br> | Online only |
-8    | Mar 27 | *Individual meetings with student teams* <br> | Online only |
+1    | Feb 06 | **Kick off the Lab** <br> Watch out for survey link: To collect data for team and topic matching!  | Campus  |
+2    | Feb 13 | **Topics and Team Formation**, Q&A | Campus         |
+3    | Feb 20 | *Individual meetings with student teams* | Online or Instructor's Office  |
+4    | Feb 27 | 🧑‍💻 **Tutorial** quarto/git/GitHub: Refresh the basics; Report writing; Figures; Referencing; Reproducible code; Literature Management; Websites <!--[Slides](tutorials/report_writing.qmd)--> | Campus  |
+5    | Mar 06 | 1️⃣ **Student Proposal Presentations** [Presentation Guide](presentation.qmd)  | Campus |
+6    | Mar 13 | 🧑‍💻 **Tutorial** Webscraping/APIs       | Campus    |
+7    | Mar 20 | *Individual meetings with student teams*  | Online only |
+8    | Mar 27 | *Individual meetings with student teams*  | Online only |
 9    | Apr 03 | 2️⃣ **Student Progress and Learning Presentations**  [Presentation Guide](presentation.qmd)   | Campus     |
 10   | Apr 10 | 🧑‍💻 **Tutorial** Open/On demand/To be decided   | Campus     |
      |        |     | Spring break           |        |
-11   | Apr 24 | *Individual meetings with student teams* <br> | Online/Instructor's Office |
+11   | Apr 24 | *Individual meetings with student teams* <br> | Online or Instructor's Office |
      |        |     | May 01 is a German vacation day           |        |
 12   | May 08 | 3️⃣ **Student Final Presentations (1)** [Presentation Guide](presentation.qmd)  |  Campus |
 13   | May 15 | 3️⃣ **Student Final Presentations (2)** [Presentation Guide](presentation.qmd)  | Campus |
