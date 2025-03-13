@@ -355,7 +355,7 @@
     "href": "collecting_data.html#learnings",
     "title": "Tutorial: Collecting Data",
     "section": "Learnings",
-    "text": "Learnings\n\nWhy do we need the “live” session and not just a downloaded HTML-file?\n\nNowadays, often the interestng part is loaded via some java-script files and only appears on the website once it is sent to a specific browser!\n\nYou need to learn a bit of the structure of HTML and CSS.\nLearn to fiddle around with strings is often key!\n\nTo that end regular expressions can be magic (see https://xkcd.com/208/)! AI Tools can help you get the one you need."
+    "text": "Learnings\n\nWhy do we need the “live” session and not just a downloaded HTML-file?\n\nNowadays, often the interesting part is loaded via some java-script files and only appears on the website once it is sent to a specific browser!\n\nYou need to learn a bit of the structure of HTML and CSS.\nLearn to fiddle around with strings is often key!\n\nTo that end regular expressions can be magic (see https://xkcd.com/208/)! AI Tools can help you get the one you need."
   },
   {
     "objectID": "aligning_tools_reporting_literature.html#communicating-and-reporting-in-the-data-science-process",
